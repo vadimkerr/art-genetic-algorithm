@@ -8,6 +8,7 @@ flake8 = "*"
 pylint = "*"
 black = "*"
 isort = "*"
+mypy = "*"
 
 [packages]
 numpy = "*"
